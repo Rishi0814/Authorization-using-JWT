@@ -1,10 +1,11 @@
-{
+  {
   "name": "authentication-using-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon index.js",
+    "dev2" : "nodemon authServer.js"
   },
   "author": "Rishi Barad",
   "license": "ISC",
